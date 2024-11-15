@@ -1,7 +1,7 @@
 /******************
-Name:Aviv Sayer
-ID:326552304
-Assignment:ex1
+Name: Aviv Sayer
+ID: 326552304
+Assignment: ex1
 *******************/
 #include <stdio.h>
 
